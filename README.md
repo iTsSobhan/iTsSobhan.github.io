@@ -114,7 +114,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 <p align="center">
   <a href="https://zil.ink/sobhan.srza">
-    <img align="left" src ="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/main/source/social-media.png" width = 50% >
+    <img align="left" src ="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/main/source/social-media.png" width = 50% />
   </a>
   <a href="https://discord.gg/WMhke7BW7J">
     <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289d9&logoColor=white&labelColor=&style=flat" height="30" />
@@ -138,7 +138,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 </p>
 <p align="right">
   <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
-    <img src="https://discord.com/api/guilds/912596015075455016/widget.png?style=banner2" alt="sizar-team.png">
+    <img src="https://discord.com/api/guilds/912596015075455016/widget.png?style=banner2" alt="sizar-team.png" />
   </a>
 </p>
 <p align="center">
